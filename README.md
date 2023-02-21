@@ -1,1 +1,2 @@
-# Mobil Programlama'ya girişte JAVA diliyle yazdığım basic app.
+# 
+Mobil Programlama'ya girişte JAVA diliyle yazdığım basic app.
