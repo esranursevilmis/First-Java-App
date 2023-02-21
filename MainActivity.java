@@ -15,8 +15,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void changeImage(View view){
-        ImageView imageView =findViewById(R.id.imageView);
-        imageView.setImageResource(R.drawable.cat2);
+        ImageView imageView =findViewById(R.id.imageView); //iki constraint'den Button'i secmememizin sebebi imageView'i degistirecek olmamizdir.
+        imageView.setImageResource(R.drawable.cat2); //drawable klasorundeki catt yine ayni klasordeki cat2 dosyasina donusmus oldu.
 
     }
 }
